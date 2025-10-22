@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Liz Napolitano, Fred Imbert",
+            "title": "S&P 500 closes in red during volatile session as Trump knocks China once again - CNBC",
+            "description": "President Donald Trump hit China late Tuesday on Truth Social, saying the country is choosing to not buy U.S. soybeans in 'an economically hostile act.'",
+            "url": "https://www.cnbc.com/2025/10/13/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108207613-1759507666324-Traders-Photo-20251003-KK-PRESS-005.jpg?v=1759507819&w=1920&h=1080",
+            "publishedAt": "2025-10-14T20:26:00Z",
+            "content": "The S&amp;P 500 staged a big comeback from its lows on Tuesday, but gave a lot of it back again before the closing bell as U.S. and China traded blows in a renewed trade feud. President Donald Trump \u2026 [+3726 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "The average cost of a new car tops $50,000 for the first time ever - CNN",
+            "description": "New car buyers can expect to shell out an average of more than $50,000 for the first time, according to a report from Kelley Blue Book.",
+            "url": "https://www.cnn.com/2025/10/14/business/new-cars-top-fifty-thousand-average",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2202686603.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-10-14T19:06:23Z",
+            "content": "New car buyers can expect to shell out an average of more than $50,000 for the first time, according to a report from Kelley Blue Book.\r\nThe average price customers paid for a new vehicle in the US w\u2026 [+1095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Goldmansachs.com"
+            },
+            "author": null,
+            "title": "Goldman Sachs Reports 2025 Third Quarter Earnings Per Common Share of $12.25 and Annualized Return on Common Equity of 14.2% - Goldman Sachs",
+            "description": null,
+            "url": "https://www.goldmansachs.com/pressroom/press-releases/2025/2025-10-14-q3-results",
+            "urlToImage": "https://www.goldmansachs.com/images/migrated/media-relations/press-releases/multimedia/200w-800X450.jpg",
+            "publishedAt": "2025-10-14T19:04:28Z",
+            "content": "NEW YORK, October 14, 2025 \u00a0The Goldman Sachs Group, Inc. (NYSE: GS) today reported net revenues of $15.18 billion and net earnings of $4.10 billion for the third quarter ended September 30, 2025. Di\u2026 [+1814 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Christopher Rugaber",
+            "title": "IMF more upbeat about US growth than just months ago, but outlook is dimmer than last year - AP News",
+            "description": "The U.S. and global economies will grow a bit more this year than previously forecast as the Trump administration\u2019s tariffs have so far proved less disruptive than expected, the International Monetary Fund said Tuesday, though the full impact of those policie\u2026",
+            "url": "https://apnews.com/article/world-economy-imf-ac044f69806501a19ccc6234d25b4ca2",
+            "urlToImage": "https://dims.apnews.com/dims4/default/2be963a/2147483647/strip/true/crop/5647x3176+0+294/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbb%2Fe0%2Fd93e0789dc28babef99f1b968aac%2F26683ae16dce4169b97c33361693d587",
+            "publishedAt": "2025-10-14T18:48:00Z",
+            "content": "WASHINGTON (AP) The U.S. and global economies will grow a bit more this year than previously forecast as the Trump administrations tariffs have so far proved less disruptive than expected, the Intern\u2026 [+5607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": null,
+            "title": "Walmart, IBD Stock Of The Day, Runs Past Buy Point On OpenAI Shopping Partnership - Investor's Business Daily",
+            "description": "Walmart rallied on an OpenAI partnership to let shoppers make purchases via ChatGPT.",
+            "url": "https://www.investors.com/research/ibd-stock-of-the-day/walmart-stock-openai-chatgpt-shopping-amazon/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/sotd-for-10-14-2025-desktop-1-1.png",
+            "publishedAt": "2025-10-14T18:11:00Z",
+            "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. \u2026 [+1064 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "Fed Chair Powell Sees More Job Market Weakness. \u2018There Is No Risk-Free Path.\u2019 - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/federal-reserve-powell-speech-inflation-rates-fbc4b91d",
+            "urlToImage": null,
+            "publishedAt": "2025-10-14T18:03:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "Spotify partners with Netflix for video podcast distribution deal - TechCrunch",
+            "description": "Spotify is partnering with Netflix to bring select video podcasts to the streaming platform starting in early 2026. The deal will feature curated shows from Spotify Studios and The Ringer, expanding later to include more genres. The move reflects Spotify\u2019s gr\u2026",
+            "url": "https://techcrunch.com/2025/10/14/spotifys-video-podcasts-are-coming-to-netflix-next-year/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
+            "publishedAt": "2025-10-14T18:00:00Z",
+            "content": "Spotify is bringing its video podcasts to Netflix starting next year, the company announced on Tuesday. Amid the company\u2019s push to further expand its video content selection and boost its ads busines\u2026 [+3467 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Openai.com"
+            },
+            "author": null,
+            "title": "Expert Council on Well-Being and AI - OpenAI",
+            "description": "Introducing the members of the Expert Council on Well-Being and AI and how we\u2019ll work together.",
+            "url": "https://openai.com/index/expert-council-on-well-being-and-ai/",
+            "urlToImage": "https://images.ctfassets.net/kftzwdyauwt9/365LDgK4SoKWSmC6t7duAa/eff0e4cd15f7d92d156132ff693125fa/Art_Card_1920_x_1082.png?w=1600&h=900&fit=fill",
+            "publishedAt": "2025-10-14T17:04:14Z",
+            "content": "Weve assembled the Expert Council on Well-Being and AI to help guide our ongoing work to build more helpful ChatGPT and Sora experiences for everyone. The eight-person council brings together leading\u2026 [+5079 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Jeff Cox",
+            "title": "Fed's Powell suggests tightening program could end soon, offers no guidance on rates - CNBC",
+            "description": "Fed Chair Jerome Powell on Tuesday said the central bank is nearing a point where it will stop reducing the size of its bond holdings.",
+            "url": "https://www.cnbc.com/2025/10/14/feds-powell-suggests-tightening-program-could-end-soon-offers-no-guidance-on-rates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108211917-1760463084877-108211917-1760460718441-gettyimages-2240612957-NABE_ANNUAL_MEETING.jpg?v=1760463092&w=1920&h=1080",
+            "publishedAt": "2025-10-14T16:20:32Z",
+            "content": "Jerome Powell, chairman of the US Federal Reserve, during a news conference following a Federal Open Market Committee (FOMC) meeting in Washington, DC, US, on Wednesday, Sept. 17, 2025. \r\nFederal Res\u2026 [+5979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TribLIVE"
+            },
+            "author": "Justin Vellucci",
+            "title": "Steelers' minority owner killed in ATV accident in North Carolina - TribLIVE.com",
+            "description": "The CEO of a North Carolina corporation, who bought a minority stake in the Pittsburgh Steelers from a Steel City-bred billionaire, died in an all-terrain vehicle crash over the weekend, the business he founded said Monday. Doug Lebda was 55. In a company ann\u2026",
+            "url": "https://triblive.com/sports/steelers-minority-owner-killed-in-atv-accident-in-north-carolina/",
+            "urlToImage": "https://assets-varnish.triblive.com/2025/10/8950453_web1_web-SteelersHelmet.jpg",
+            "publishedAt": "2025-10-14T16:12:00Z",
+            "content": "The CEO of a North Carolina corporation, who bought a minority stake in the Pittsburgh Steelers from a Steel City-bred billionaire, died in an all-terrain vehicle crash over the weekend, the business\u2026 [+3059 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Todd Gillespie",
+            "title": "Goldman Sachs Tells Staff It Plans to Cut More Jobs This Year - Bloomberg.com",
+            "description": "Goldman Sachs Group Inc. told staffers to expect an additional round of job cuts this year as the bank seeks further savings across its businesses and takes advantage of the opportunities presented by artificial intelligence.",
+            "url": "https://www.bloomberg.com/news/articles/2025-10-14/goldman-sachs-tells-staff-it-plans-to-cut-more-jobs-this-year",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqPt34v8ZJE0/v1/1200x800.jpg",
+            "publishedAt": "2025-10-14T16:10:09Z",
+            "content": "Goldman Sachs Group Inc. told staffers to expect an additional round of job cuts this year as the bank seeks further savings across its businesses and takes advantage of the opportunities presented b\u2026 [+250 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "Boeing delivers 55 planes in September, on track for most in a year since 2018 - CNBC",
+            "description": "Boeing handed over 55 aircraft in September, putting it on track for most annual deliveries since 2018 as production stabilizes.",
+            "url": "https://www.cnbc.com/2025/10/14/boeing-orders-deliveries-737-max.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108035912-1726674136837-IMG_1673.jpg?v=1726674360&w=1920&h=1080",
+            "publishedAt": "2025-10-14T15:00:01Z",
+            "content": "Boeing delivered 55 aircraft to customers last month, putting it on track for its best year since 2018 as its production stabilizes and its executives eye increased output rates of its 737 Max cash c\u2026 [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Common Dreams"
+            },
+            "author": "https://www.facebook.com/32109457015",
+            "title": "US Consumers Paying the Most for Tariffs: Wall Street Giant\u2019s Report Exposes Trump Lies - Common Dreams",
+            "description": "New research from Goldman Sachs reveals US consumers bear 55% of Trump's trade war costs, despite claims tariffs are paid by foreigners.",
+            "url": "https://www.commondreams.org/news/trump-tariffs-goldman-sachs",
+            "urlToImage": "https://www.commondreams.org/media-library/us-politics-tariff-trade-diplomacy.jpg?id=59800245&width=1200&height=600&coordinates=0%2C86%2C0%2C87",
+            "publishedAt": "2025-10-14T14:56:33Z",
+            "content": "New research from investment bank Goldman Sachs affirms, as progressive advocates and economists warned, that US consumers are bearing the brunt of President Donald Trump's trade wars.\r\nAs reported b\u2026 [+2396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tipranks.com"
+            },
+            "author": "David Craik",
+            "title": "Broadcom Stock (AVGO) Hammered Despite Launching Nvidia Rival Chip Thor Ultra - TipRanks",
+            "description": "Shares in Broadcom ($AVGO) slipped over 3% today despite launching a new Nvidia ($NVDA) rivaling AI network chip. AI Breakthrough The chip, impressively dubbed the ...",
+            "url": "https://www.tipranks.com/news/broadcom-stock-avgo-hammered-despite-launching-nvidia-rival-chip-thor-ultra",
+            "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2025/10/broadly-750x406.jpg",
+            "publishedAt": "2025-10-14T14:51:35Z",
+            "content": "Story HighlightsAVGO stock is lower despite unveiling a groundbreaking new chip."
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "William Edwards",
+            "title": "Today's stock market rhymes with 1929 bubble, Andrew Ross Sorkin says - Business Insider",
+            "description": "\"Do I think we're in a bubble of some sort? Sure, we're in some kind of bubble,\" Andrew Ross Sorkin told Business Insider.",
+            "url": "https://www.businessinsider.com/stock-market-bubble-andrew-ross-sorkin-1929-crash-book-ai-2025-10",
+            "urlToImage": "https://i.insider.com/68ee5f095dbc4fd10daacd88?width=1200&format=jpeg",
+            "publishedAt": "2025-10-14T14:25:00Z",
+            "content": "Walking up to The Plaza Hotel's east side entrance, Andrew Ross Sorkin is in his element.\r\nJust seconds after his arrival, he dives into what the storied hotel was like a century ago, sending me scra\u2026 [+6669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Barron's"
+            },
+            "author": "Barron's",
+            "title": "MP Materials, Other Rare-Earth Players Surge, Then Dip. Wall Street Can\u2019t Catch Up With the Stocks. - Barron's",
+            "description": null,
+            "url": "https://www.barrons.com/articles/mp-materials-stock-rare-earths-rally-4b4ea4f2",
+            "urlToImage": null,
+            "publishedAt": "2025-10-14T14:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "The Wall Street Journal",
+            "title": "JPMorgan\u2019s Profit Jumps as Business Booms on Main Street, Wall Street - The Wall Street Journal",
+            "description": null,
+            "url": "https://www.wsj.com/finance/banking/jpmorgan-chase-jpm-q3-earnings-report-stock-2025-ed24eba8",
+            "urlToImage": null,
+            "publishedAt": "2025-10-14T14:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Albany Times Union"
+            },
+            "author": "Brendan J. Lyons",
+            "title": "NY's electric grid operator warns of looming 'reliability shortfalls' - Times Union",
+            "description": "A second, short-term assessment issued by the operator said that over the next five years there may be \u201creliability violations\u201d in New York City and Long Island",
+            "url": "https://www.timesunion.com/capitol/article/ny-s-electric-grid-operator-warns-looming-21099820.php",
+            "urlToImage": "https://s.hdnux.com/photos/01/20/21/33/21042907/6/rawImage.jpg",
+            "publishedAt": "2025-10-14T13:58:29Z",
+            "content": "The New York Independent System Operator, which manages the states power grid, issued a new assessment on Tuesday that again warns that there may be significant reliability shortfalls within the next\u2026 [+8179 chars]"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "level": 1,
+    "ability_scores": {
+        "str": 13,
+        "dex": 14,
+        "con": 12,
+        "int": 18,
+        "wis": 16,
+        "cha": 15
+    },
+    "hp": 22
+}
