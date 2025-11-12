@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Magic Houses Quiz</title>
+  <style>
+    :root{
+      --accent: {{ house.hex if house else "#c41e3a" }};
+    }
+    * { box-sizing: border-box; }
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0; padding: 0;
+      background: #0f0f0f; color: #f7f7f7;
+    }
+    header {
+      text-align: center; padding: 1.75rem 1rem;
+      background: radial-gradient(circle at top, #3a3a3a, #0f0f0f);
+      border-bottom: 1px solid #222;
+    }
+    h1 { margin: 0 0 .25rem 0; }
+    .subtitle { color: #cfcfcf; font-size: .95rem; }
+    main { max-width: 860px; margin: 1.75rem auto; padding: 0 1rem; }
+    form, .result-card {
+      background: #171717; border: 1px solid #2a2a2a;
+      border-radius: 14px; padding: 1rem;
+    }
+    fieldset { border: none; margin: 0 0 1rem 0; padding: 0; }
+    legend, label { color: #eee; }
+    legend { font-weight: 700; margin-bottom: .55rem; }
+    .group { margin-bottom: 1rem; padding: 1rem; background: #141414; border: 1px solid #262626; border-radius: 12px; }
+    .radio { display: flex; gap: .5rem; align-items: center; margin: .35rem 0; }
+    .btn {
+      display: inline-block; padding: .7rem 1.2rem;
+      border-radius: 999px; border: none; cursor: pointer;
+      font-weight: 700; color: #fff; background: var(--accent);
+      margin-top: .5rem;
+    }
+    .again {
+      display: inline-block; padding: .6rem 1.1rem; border-radius: 999px;
+      text-decoration: none; border: 1px solid #3a3a3a; color: #fff; background: #222;
+      margin-top: .5rem;
+    }
+    .result-card { text-align: center; }
+    .badge {
+      display: inline-flex; align-items: center; gap: .5rem;
+      padding: .5rem .9rem; border-radius: 999px; background: #0f0f0f; border: 1px solid #2a2a2a;
+    }
+    .swatch { width: .9rem; height: .9rem; border-radius: 50%; background: var(--accent); border: 1px solid #333;}
+    footer { text-align: center; padding: 1rem; font-size: .85rem; color: #aaa; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Magic Houses Quiz</h1>
+    <p class="subtitle">Find out which house-inspired group matches your personality.</p>
+  </header>
+
+  <main>
+    {% if house %}
+      <div class="result-card">
+        <h2>Your house is:</h2>
+        <p class="badge"><span class="swatch"></span> {{ house.name }} {{ house.emoji }}</p>
+        <p><strong>Colors:</strong> {{ house.colors }}</p>
+        <p><strong>Traits:</strong> {{ house.traits }}</p>
+      </div>
+      <p><a class="again" href="/">Take the quiz again</a></p>
+    {% else %}
+      <form method="POST" novalidate>
+        {{ form.hidden_tag() }} {# includes CSRF token automatically #}
+
+        <fieldset class="group">
+          <legend>1) {{ form.q1.label.text }}</legend>
+          {% for sub in form.q1 %}
+            <label class="radio">{{ sub() }} {{ sub.label.text }}</label>
+          {% endfor %}
+          {% if form.q1.errors %}<small style="color:#ffb4b4">{{ form.q1.errors[0] }}</small>{% endif %}
+        </fieldset>
+
+        <fieldset class="group">
+          <legend>2) {{ form.q2.label.text }}</legend>
+          {% for sub in form.q2 %}
+            <label class="radio">{{ sub() }} {{ sub.label.text }}</label>
+          {% endfor %}
+          {% if form.q2.errors %}<small style="color:#ffb4b4">{{ form.q2.errors[0] }}</small>{% endif %}
+        </fieldset>
+
+        <fieldset class="group">
+          <legend>3) {{ form.q3.label.text }}</legend>
+          {% for sub in form.q3 %}
+            <label class="radio">{{ sub() }} {{ sub.label.text }}</label>
+          {% endfor %}
+          {% if form.q3.errors %}<small style="color:#ffb4b4">{{ form.q3.errors[0] }}</small>{% endif %}
+        </fieldset>
+
+        {{ form.submit(class_="btn") }}
+      </form>
+    {% endif %}
+  </main>
+
+  <footer>Made with Flask for COP 4814 ⚡</footer>
+</body>
+</html>
